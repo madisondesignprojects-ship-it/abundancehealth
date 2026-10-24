@@ -1,22 +1,21 @@
 # Abundant Health Chiropractic
 
-Static website source for the Abundant Health Chiropractic redesign concept.
+Website redesign concept for Abundant Health Chiropractic in Stoughton, Wisconsin.
 
 ## Pages
-- `index.html` — Home
-- `services.html` — Services and pricing
-- `about.html` — Meet Dr. Grayson
+- `index.html` — Homepage
+- `services.html` — Services and appointment pricing
+- `about.html` — Dr. Grayson Cline, D.C.
 - `faq.html` — Frequently asked questions
-- `contact.html` — Contact details, hours, and directions
-- `assets/site.css` — Responsive styling
-- `assets/site.js` — Mobile navigation and page interactions
+- `contact.html` — Contact information, office hours, and directions
+- `assets/site.css` — Shared responsive design system
+- `assets/site.js` — Navigation and contact-form interactions
 
-## Preview
-The current hosted concept is available at:
+## Live preview
 https://abundant-health-chiropractic.vercel.app/
 
-## Deploy
-This is a plain static site. Serve the repository root as the output directory; no build command or package installation is required.
+## Deployment
+This is a static site. Serve the repository root; no package installation or build command is required.
 
 ## Before production use
-Confirm current services, pricing, hours, imagery, reviews, and all practice-specific text with Abundant Health Chiropractic. Appointment links direct to the practice's existing JaneApp booking system. The contact form opens a prefilled email rather than submitting to a website backend.
+Confirm service availability, prices, office hours, images, and practice-specific information with the clinic. Appointment links go to the clinic's existing JaneApp booking system. The contact form opens the visitor's email application; it does not submit to a website backend.
